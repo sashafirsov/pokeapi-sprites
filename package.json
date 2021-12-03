@@ -1,6 +1,6 @@
 {
-  "name": "pokemon-sprites",
-  "version": "1.0.0",
+  "name": "pokeapi-sprites",
+  "version": "2.0.1",
   "description": "pokemon sprites",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PokeAPI/sprites.git"
+    "url": "https://github.com/sashafirsov/pokeapi-sprites.git"
   },
   "keywords": [
     "pokemon",
-    "pokeapi"
+    "pokeapi",
+    "svg",
+    "png"
   ],
   "author": "PokeAPI",
   "license": "ISC",
