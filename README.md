@@ -1,5 +1,7 @@
 # PokéAPI SVG and GIF Sprites <a href="https://pokeapi.co/api/v2/pokemon/smeargle"><img src='https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/235.svg' height=50px/></a>
 
+[![NPM version][npm-image]][npm-url]
+
 _This project is a fork of https://github.com/PokeAPI/sprites 
 to publish SVG and GIF on npmjs.org and https://unpkg.com CDN_
 
@@ -264,3 +266,6 @@ Animated
 ## Thanks
 
 We would like to thank the [Smogon community](https://www.smogon.com/) for allowing us to use and serve their custom B&W-style sprites for the Pokemon with IDs greater than 650. Check out their free and open-source Pokemon Battle Simulator at [Pokémon Showdown](https://github.com/smogon/pokemon-showdown)
+
+[npm-image]:      https://img.shields.io/npm/v/pokeapi-sprites.svg
+[npm-url]:        https://npmjs.org/package/pokeapi-sprites
