@@ -1,6 +1,6 @@
 {
   "name": "pokeapi-sprites",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "pokemon SVG and GIF for https://pokeapi.co",
   "main": "index.js",
   "scripts": {

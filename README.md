@@ -1,6 +1,16 @@
-# PokéAPI Sprites <a href="https://pokeapi.co/api/v2/pokemon/smeargle"><img src='https://veekun.com/dex/media/pokemon/global-link/235.png' height=50px/></a>
+# PokéAPI SVG and GIF Sprites <a href="https://pokeapi.co/api/v2/pokemon/smeargle"><img src='https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/235.svg' height=50px/></a>
 
-    This project is a fork of https://github.com/PokeAPI/sprites to publish SVG and GIF on npmjs.org and https://unpkg.com CDN
+_This project is a fork of https://github.com/PokeAPI/sprites 
+to publish SVG and GIF on npmjs.org and https://unpkg.com CDN_
+
+https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/87.svg
+
+<img src="https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/25.svg" alt="pikachu"/>
+
+<hr/>
+
+_Original project README_
+# PokéAPI Sprites <a href="https://pokeapi.co/api/v2/pokemon/smeargle"><img src='https://veekun.com/dex/media/pokemon/global-link/235.png' height=50px/></a>
 
 
 To save load on PokéAPI, we host all the sprite images here.
