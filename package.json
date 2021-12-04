@@ -1,7 +1,7 @@
 {
   "name": "pokeapi-sprites",
   "version": "2.0.1",
-  "description": "pokemon sprites",
+  "description": "pokemon SVG and GIF for https://pokeapi.co",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,9 +14,13 @@
     "pokemon",
     "pokeapi",
     "svg",
-    "png"
+    "gif"
   ],
-  "author": "PokeAPI",
+    "author": {
+        "name": "Sasha Firsov",
+        "email": "suns@simulationworks.com",
+        "url": "https://blog.firsov.net/"
+    },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PokeAPI/sprites/issues"
