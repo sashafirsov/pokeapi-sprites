@@ -1,14 +1,15 @@
-# PokéAPI SVG and GIF Sprites <a href="https://pokeapi.co/api/v2/pokemon/smeargle"><img src='https://unpkg.com/pokeapi-sprites@2.0.2/sprites/pokemon/other/dream-world/235.svg' height=50px/></a>
+# PokéAPI SVG and GIF Sprites <a href="https://pokeapi.co/api/v2/pokemon/smeargle"><img src='https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/other/dream-world/235.svg' height=50px/></a>
 
 [![NPM version][npm-image]][npm-url]
 
 _This project is a fork of https://github.com/PokeAPI/sprites 
 to publish SVG and GIF on [npmjs.org](https://npmjs.org) and [unpkg.com](https://unpkg.com) CDN_
 
-https://unpkg.com/pokeapi-sprites@2.0.3/sprites/pokemon/other/dream-world/87.svg
+https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/other/dream-world/87.svg
 
-Sample of use : [PokéAPI Explorer]([PokeApi-explorer-url])
+Sample of use : [PokéAPI Explorer][PokeApi-explorer-url]:
 [![PokéAPI Explorer][PokeApi-explorer-image]][PokeApi-explorer-url]
+
 
 
 <hr/>
@@ -271,5 +272,5 @@ We would like to thank the [Smogon community](https://www.smogon.com/) for allow
 
 [npm-image]:      https://img.shields.io/npm/v/pokeapi-sprites.svg
 [npm-url]:        https://npmjs.org/package/pokeapi-sprites
-[PokeApi-explorer-image]: https://unpkg.com/css-chain-test@1.0.7/src/PokeApi-Explorer.png
-[PokeApi-explorer-url]: https://unpkg.com/css-chain-test@1.0.7/src/PokeApi-Explorer.html
+[PokeApi-explorer-image]: https://unpkg.com/css-chain-test@1.0.8/src/PokeApi-Explorer.png
+[PokeApi-explorer-url]: https://unpkg.com/css-chain-test@1.0.8/src/PokeApi-Explorer.html
