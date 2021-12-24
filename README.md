@@ -272,5 +272,5 @@ We would like to thank the [Smogon community](https://www.smogon.com/) for allow
 
 [npm-image]:      https://img.shields.io/npm/v/pokeapi-sprites.svg
 [npm-url]:        https://npmjs.org/package/pokeapi-sprites
-[PokeApi-explorer-image]: https://unpkg.com/css-chain-test@1.0.8/src/PokeApi-Explorer.png
-[PokeApi-explorer-url]: https://unpkg.com/css-chain-test@1.0.8/src/PokeApi-Explorer.html
+[PokeApi-explorer-image]: https://unpkg.com/css-chain-test@1/src/PokeApi-Explorer.png
+[PokeApi-explorer-url]: https://unpkg.com/css-chain-test@1/src/PokeApi-Explorer.html
